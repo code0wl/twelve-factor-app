@@ -16,8 +16,8 @@
     "url": "https://github.com/code0wl/twelve-factor-app/issues"
   },
   "homepage": "https://github.com/code0wl/twelve-factor-app#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "react": "^16.2.0"
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "mongodb": "^2.2.26"
   }
 }
